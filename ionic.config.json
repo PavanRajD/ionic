@@ -1,0 +1,7 @@
+{
+  "name": "Temp Ion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
